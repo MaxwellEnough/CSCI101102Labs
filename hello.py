@@ -1,2 +1,2 @@
 print("Hello world, but in git!")
-# ye
+print("It is not a bug, it is a feature")
